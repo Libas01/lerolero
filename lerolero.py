@@ -4,7 +4,7 @@ from random import choice
 
 parte1 = ["O sistema em desenvolvimento",
 "O novo protocolo de comunicacao",
-"O algoritmo otimizado"]
+"O algoritmo foi otimizado e"]
 parte2 = ["possui excelente desempenho",
 "oferece garantias de precisao acima da media",
 "preenche uma lacuna significativa"]
