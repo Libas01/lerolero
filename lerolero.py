@@ -12,4 +12,11 @@ parte3 = ["nas aplicacoes a que se destina",
 "em relacao as opcoes disponiveis no mercado",
 ", provendo ampla vantagem competitiva a seus usuarios"]
 
+lingua = int(input("escolha o linguini: 1 - portugues, 2 - ingles")
+
+if lingua == 2:
+    parte1 = []
+    parte2 = []
+    parte3 = []
+
 print(choice(parte1),choice(parte2),choice(parte3))
