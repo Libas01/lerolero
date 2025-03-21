@@ -1,0 +1,2 @@
+#!/usr/bin/python3
+'''GERADOR DE LERO LOUR GERA FRASES DE EFEITO''' 
